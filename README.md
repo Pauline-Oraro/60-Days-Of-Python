@@ -23,3 +23,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 1 | Introduction to Python & Setup | ✅ Done |
 | Day 2 | Variables | ✅ Done |
 | Day 3 | Data Types | ✅ Done |
+| Day 4 | Strings | ✅ Done |
