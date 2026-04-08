@@ -27,3 +27,5 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 5 | Operators | ✅ Done |
 | Day 6 | Lists | ✅ Done |
 | Day 7 | Tuples | ✅ Done |
+| Day 8 | Dictionaries | ✅ Done |
+
