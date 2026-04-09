@@ -28,4 +28,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 6 | Lists | ✅ Done |
 | Day 7 | Tuples | ✅ Done |
 | Day 8 | Dictionaries | ✅ Done |
-
+| Day 9 | Conditionals | ✅ Done |
