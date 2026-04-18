@@ -37,3 +37,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 15 | Python type errors | ✅ Done |
 | Day 16 | Python Dates | ✅ Done |
 | Day 17 | Exception Handling | ✅ Done |
+| Day 18 | Regular Expressions | ✅ Done |
