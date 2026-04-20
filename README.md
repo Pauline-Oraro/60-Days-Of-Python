@@ -39,3 +39,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 17 | Exception Handling | ✅ Done |
 | Day 18 | Regular Expressions | ✅ Done |
 | Day 19 | File Handling | ✅ Done |
+| Day 20 | Python Package Manager | ✅ Done |
