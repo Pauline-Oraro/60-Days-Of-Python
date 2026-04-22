@@ -41,3 +41,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 19 | File Handling | ✅ Done |
 | Day 20 | Python Package Manager | ✅ Done |
 | Day 21 | Python Classes and Objects | ✅ Done |
+| Day 22 | Python Web Scraping | ✅ Done | 
