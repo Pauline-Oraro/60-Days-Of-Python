@@ -43,3 +43,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 21 | Python Classes and Objects | ✅ Done |
 | Day 22 | Python Web Scraping | ✅ Done | 
 | Day 23 | Virtual Enivornment | ✅ Done |
+| Day 24 | Python Statistical Analysis | ✅ Done |
