@@ -4,20 +4,6 @@ A simple web application built with **Python (Flask)** and **Jinja2 templating**
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Pages](#pages)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [Template Breakdown](#template-breakdown)
-- [Getting Started](#getting-started)
-- [Jinja2 Templating Reference](#jinja2-templating-reference)
-- [Important Notes](#important-notes)
-
----
-
 ## Overview
 
 This is a simple Flask web application that demonstrates:
