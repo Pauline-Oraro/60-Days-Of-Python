@@ -45,3 +45,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 23 | Virtual Enivornment | ✅ Done |
 | Day 24 | Python Statistical Analysis | ✅ Done |
 | Day 25 | Pandas | ✅ Done |
+| Day 26 | Python for Web Development | ✅ Done |
