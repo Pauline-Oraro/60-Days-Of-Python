@@ -48,3 +48,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 26 | Python for Web Development | ✅ Done |
 | Day 27 | API | ✅ Done |
 | Day 28 | Website Checker Project | ✅ Done |
+| Day 29 | Step Counter Project | ✅ Done |
