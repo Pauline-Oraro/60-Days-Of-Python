@@ -51,3 +51,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 29 | Step Counter Project | ✅ Done |
 | Day 30 | Text Formatter Project | ✅ Done |
 | Day 31 | Check Char Type Project | ✅ Done |
+| Day 32 | Grade Calculator Project | ✅ Done |
