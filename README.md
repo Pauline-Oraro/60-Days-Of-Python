@@ -41,7 +41,7 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 19 | File Handling | ✅ Done |
 | Day 20 | Python Package Manager | ✅ Done |
 | Day 21 | Python Classes and Objects | ✅ Done |
-| Day 22 | Python Web Scraping | ✅ Done | 
+| Day 22 | Python Web Scraping | ✅ Done |
 | Day 23 | Virtual Enivornment | ✅ Done |
 | Day 24 | Python Statistical Analysis | ✅ Done |
 | Day 25 | Pandas | ✅ Done |
@@ -52,3 +52,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 30 | Text Formatter Project | ✅ Done |
 | Day 31 | Check Char Type Project | ✅ Done |
 | Day 32 | Grade Calculator Project | ✅ Done |
+| Day 33 | Word Scrambler Project | ✅ Done |
