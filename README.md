@@ -54,4 +54,5 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 32 | Grade Calculator Project | ✅ Done |
 | Day 33 | Word Scrambler Project | ✅ Done |
 | Day 34 | Music Recommender Project | ✅ Done |
-| Day 35 | Random Name Generator | ✅ Done |
+| Day 35 | Random Name Generator Project | ✅ Done |
+| Day 36 | Reverse Name Generator Project | ✅ Done |
