@@ -58,3 +58,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 36 | Reverse Name Generator Project | ✅ Done |
 | Day 37 | Vowel Counter Project | ✅ Done |
 | Day 38 | Coin Flip Game Project | ✅ Done |
+| Day 39 | Recipe Generator Project | ✅ Done |
