@@ -59,3 +59,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 37 | Vowel Counter Project | ✅ Done |
 | Day 38 | Coin Flip Game Project | ✅ Done |
 | Day 39 | Recipe Generator Project | ✅ Done |
+| Day 40 | Color Mixer Project | ✅ Done |
