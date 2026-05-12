@@ -254,4 +254,4 @@ This Number Guessing Game is an excellent beginner Python project that teaches i
 
 It is a great project for improving logic-building and understanding how Python programs flow from start to finish.
 
-Happy Coding
+Happy Coding.
