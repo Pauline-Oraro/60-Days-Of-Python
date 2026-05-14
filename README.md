@@ -63,3 +63,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 41 | Guess The Word Project | ✅ Done |
 | Day 42 | Guess The Number Project | ✅ Done |
 | Day 43 | Contdown Timer Project | ✅ Done |
+| Day 44 | Calculator Project | ✅ Done |
