@@ -68,3 +68,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 46 | Memory Sequence Project | ✅ Done |
 | Day 47 | Rock Paper Scissors Game | ✅ Done |
 | Day 48 | Task Manager Project | ✅ Done |
+| Day 49 | Simple Chatbot Project | ✅ Done |
