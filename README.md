@@ -70,3 +70,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 48 | Task Manager Project | ✅ Done |
 | Day 49 | Simple Chatbot Project | ✅ Done |
 | Day 50 | Word Counter Project | ✅ Done |
+| Day 51 | Currency Converter Project | ✅ Done |
