@@ -72,3 +72,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 50 | Word Counter Project | ✅ Done |
 | Day 51 | Currency Converter Project | ✅ Done |
 | Day 52 | Password Generator Project | ✅ Done |
+| Day 53 | Quiz Game | ✅ Done |
