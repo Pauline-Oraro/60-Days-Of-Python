@@ -74,3 +74,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 52 | Password Generator Project | ✅ Done |
 | Day 53 | Quiz Game | ✅ Done |
 | Day 54 | Pomodoro Timer | ✅ Done |
+| Day 55 | Tkinter Hello World | ✅ Done |
