@@ -75,3 +75,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 53 | Quiz Game | ✅ Done |
 | Day 54 | Pomodoro Timer | ✅ Done |
 | Day 55 | Tkinter Hello World | ✅ Done |
+| Day 56 | Tkinter Calculator | ✅ Done |
