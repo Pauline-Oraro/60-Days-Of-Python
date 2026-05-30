@@ -79,3 +79,4 @@ This repository documents my journey of learning and mastering Python over 60 da
 | Day 57 | Drawing App | ✅ Done |
 | Day 58 | Adventure Game | ✅ Done |
 | Day 59 | Snake Game | ✅ Done |
+| Day 60 | QR Code Generator | ✅ Done |
